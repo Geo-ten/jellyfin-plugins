@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "3a2c88a1-ed97-43a0-8425-36985ca4491a",
+        "name": "Core Slider",
+        "description": "Adds a customizable slider to the Jellyfin home page.",
+        "overview": "Enhance your Jellyfin home screen with a beautiful, dynamic Core Slider. Supports Custom Lists and Random Items.",
+        "owner": "Geoten",
+        "category": "User Interface",
+        "imageUrl": "https://raw.githubusercontent.com/Geo-ten/jellyfin-core-slider/main/assets/images/logo.png",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "date": "2026-03-30T12:00:00Z",
+                "changelog": "Initial release for Jellyfin 10.11.x",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Geo-ten/jellyfin-core-slider/releases/download/v1.5.0/core-slider-app-10.11-v1.0.0.0.zip",
+                "checksum": "sha256:7bc1d1562b94bc250b37e5f3bf5517450e831c776a058d2d354bb1f99dd6df48"
+            }
+        ]
+    }
+]
