@@ -14,7 +14,7 @@
                 "changelog": "Initial release for Jellyfin 10.11.x",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Geo-ten/jellyfin-core-slider/releases/download/v1.5.0/core-slider-app-10.11-v1.0.0.0.zip",
-                "checksum": "664ed8d1db24eccf3db7171ab51cda5a"
+                "checksum": "fecaed654fc63700e8283a498fc31775"
             }
         ]
     }
