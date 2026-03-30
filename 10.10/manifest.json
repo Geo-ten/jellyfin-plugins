@@ -9,6 +9,14 @@
         "imageUrl": "https://raw.githubusercontent.com/Geo-ten/jellyfin-core-slider/main/assets/images/logo.png",
         "versions": [
             {
+                "version": "1.1.0.0",
+                "date": "2026-03-31T12:00:00Z",
+                "changelog": "- Add more options to CDN methods\n- Add caching system for local files\n- Fix Direct/Transform assets injection",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/Geo-ten/jellyfin-core-slider/releases/download/v1.6.0/core-slider-app-10.10-v1.1.0.0.zip",
+                "checksum": "439469a0297da064a9562d154c24d7f1"
+            },
+            {
                 "version": "1.0.0.0",
                 "date": "2026-03-30T12:00:00Z",
                 "changelog": "Initial release for Jellyfin 10.10.x",
