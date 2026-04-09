@@ -9,6 +9,14 @@
         "imageUrl": "https://raw.githubusercontent.com/Geo-ten/jellyfin-core-slider/main/assets/images/logo.png",
         "versions": [
             {
+                "version": "1.2.0.2",
+                "timestamp": "2026-04-09T14:10:00Z",
+                "changelog": "- Fix a major bug for a simple user",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Geo-ten/jellyfin-core-slider/releases/download/v1.7.1/core-slider-app-10.11-v1.2.0.2.zip",
+                "checksum": "dd9381531a49ae9051dcfd85ced40a53"
+            },
+            {
                 "version": "1.2.0.1",
                 "timestamp": "2026-04-09T12:10:00Z",
                 "changelog": "- Fix version bug",
