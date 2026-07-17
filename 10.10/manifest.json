@@ -12,7 +12,7 @@
                 "version": "1.2.0.4",
                 "timestamp": "2026-07-17T18:51:00Z",
                 "changelog": "- Fix path on load\n- Added Tomato Rating\n- Improve CSS",
-                "targetAbi": "10.11.0.0",
+                "targetAbi": "10.10.0.0",
                 "sourceUrl": "https://github.com/Geo-ten/jellyfin-core-slider/releases/download/v1.7.3/core-slider-app-10.10-v1.2.0.4.zip",
                 "checksum": "4f7581b68d0cdf4f3eedc0a0a17ec074"
             },
